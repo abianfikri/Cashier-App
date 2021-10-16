@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projects UAS 2", "Projects UAS 2\Projects UAS 2.csproj", "{62BA02B4-2649-4D9F-BC35-E565C9EA5FA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projects UAS 2Tests", "Projects UAS 2Tests\Projects UAS 2Tests.csproj", "{DCAB712B-93B5-459B-82A5-20C1B2A49837}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Aplikasi_KasirSetup", "Aplikasi_KasirSetup\Aplikasi_KasirSetup.vdproj", "{DE5055DB-59EF-4A58-BDF9-833188CEC3CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BA02B4-2649-4D9F-BC35-E565C9EA5FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BA02B4-2649-4D9F-BC35-E565C9EA5FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BA02B4-2649-4D9F-BC35-E565C9EA5FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BA02B4-2649-4D9F-BC35-E565C9EA5FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAB712B-93B5-459B-82A5-20C1B2A49837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAB712B-93B5-459B-82A5-20C1B2A49837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAB712B-93B5-459B-82A5-20C1B2A49837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAB712B-93B5-459B-82A5-20C1B2A49837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5055DB-59EF-4A58-BDF9-833188CEC3CB}.Debug|Any CPU.ActiveCfg = Debug
+		{DE5055DB-59EF-4A58-BDF9-833188CEC3CB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036AC966-27D1-4D1D-A8D2-83B62392A7B5}
+	EndGlobalSection
+EndGlobal
